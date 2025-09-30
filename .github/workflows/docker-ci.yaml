@@ -21,4 +21,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: 'bhasker-manikyala/docker-ci-demo:latest'
+        tags: 'bhasker-manikyala/dockerdemo:latest'
