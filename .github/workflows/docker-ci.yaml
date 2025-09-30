@@ -22,5 +22,5 @@ jobs:
     uses: docker/build-push-action@v5
     with:
      context: .
-       push: true
-       tags: bhasker-manikyala/docker-ci-demo:latest
+     push: true
+     tags: bhasker-manikyala/docker-ci-demo:latest
